@@ -5,7 +5,7 @@ n = 14
 print("Fibonacci sequence:")
 while count < n:
     print(n1)
-    nth = n1 + n2
+    nth = n1 + n3
     n1 = n2
     n2 = nth
     count += 1
